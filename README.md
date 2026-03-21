@@ -74,6 +74,7 @@ Add Project → Select folder
 
 # Run the game
 Click Play in Unity Editor
+```
 
 ## 🕹️ Controls
 | Action    | Key |
