@@ -52,7 +52,7 @@ A roaming enemy adds challenge and tension:
 ---
 
 ## 🖼️ Screenshots
-> *(Replace with your actual images)*
+> 
 
 
 ---
@@ -106,10 +106,9 @@ Click Play in Unity Editor
 
 ---
 
-## 📊 GitHub Stats (Optional)
-> *(This will work automatically on GitHub)*
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatCs3-14159&show_icons=true&theme=tokyonight)
 
 ---
 
