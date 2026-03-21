@@ -136,7 +136,7 @@ This project is licensed under the MIT License.
 
 ## 🧑‍🤝‍🧑 Roles & Responsibilities
 - **Sagar Mishra** – Game Logic, Player Controller, UI 
-- **Rachit Subedi** – Environment Design, 
+- **Rachit Subedi** – Environment Design
 
 ---
 
