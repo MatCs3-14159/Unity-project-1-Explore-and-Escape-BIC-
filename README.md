@@ -127,11 +127,13 @@ This project is licensed under the MIT License.
 **Sagar Mishra**  
 🎓 Computer Engineering Student  
 🎮 3D Game Designer
+<br>
 💻 Programmer
 
 **[Rachit Subedi]**  
 🎓 Computer Engineering Student  
 🎓 Unity Developer / Designer
+<br>
 💻 Programmer
 
 ---
