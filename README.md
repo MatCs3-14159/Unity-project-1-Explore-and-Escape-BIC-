@@ -1,4 +1,4 @@
-# 🎮 College Escape – 3D Unity Exploration Game
+# 🎮 College Ex-cape – 3D Unity Exploration Game
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-blue?logo=c-sharp)
