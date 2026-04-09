@@ -106,10 +106,13 @@ Click Play in Unity Editor
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatCs3-14159&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachit20006&show_icons=true&theme=tokyonight)
+*Sagar mishra*<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatCs3-14159&theme=dracula) 
+<br>
+*Rachit Subedi*<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachit20006&theme=dracula)
 ---
 
 ## 🤝 Contributing
